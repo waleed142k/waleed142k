@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @waleed142k
+- 👀 I’m interested in HTML, CSS, JAVASCRIPT, REACTJS
+- 🌱 I’m currently learning ReactJs
